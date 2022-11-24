@@ -1,0 +1,21 @@
+* {
+    font-family: "lato", sans-serif;
+    font-weight: bold;
+}
+
+body {
+    background: rgb(55, 34, 34);
+    color: #c1dd20;
+    margin-top: 20px;
+}
+
+.container {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
